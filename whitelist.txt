@@ -1,12 +1,19 @@
-# TrueTone WhiteList
+// TrueTone WhiteList //
+ • 최종 수정일: 2020.08.26 21:47
 -----------------------
-» 기간을 알수 없음:
+» 관리자 목록:
  • [어드민] ZetLuna
  • [관리자] RebootPlayer
  • [관리자] WatchSeries
- • [관리자] Rpha4651
- • [관리자] Tiera69
+ • [관리자] yeojune427
+ • [관리자] Alpha4651
+ • [관리자] NewTiera
  • [관리자] hwehil CR
+-----------------------
+» 2020.08.26 등록:
+ • AnsanMelody
+-----------------------
+» 기간을 알수 없음:
  • Guardian9176
  • simsimhan52
  • Purspletar
@@ -116,6 +123,4 @@
  • ManLevNewBie (기존: 확인중..)
  • june7dg
  • jhy370937BE (기존: jhy370937MC)
-
-» 2020.08.26에 등록됨
- • AnsanMelody
+-----------------------
